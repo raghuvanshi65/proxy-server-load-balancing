@@ -1,0 +1,16 @@
+{
+  "name": "load-balancing",
+  "version": "1.0.0",
+  "description": "This package contains a load balancer proxy server and 3 dummy servers ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raghu65",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1",
+    "nodemon": "^2.0.12"
+  }
+}
